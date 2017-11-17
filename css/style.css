@@ -1,0 +1,79 @@
+
+body {
+  background: #000;
+  font-family: "Droid Sans", arial, verdana, sans-serif;
+  text-align: center;
+  color: #ff6;
+  max-width: 960px;
+  margin: auto;
+}
+
+}
+.red-text {
+  color: red;
+}
+
+h1 {
+ font-family: "Droid Sans", arial, verdana, sans-serif;
+ font-size: 100px;  
+ margin: 60px 0px 30px 0px;
+}
+
+h2 {
+     color: rgb(75,213,238);
+    font-family: "FranklinGothicBookRegular", sans-serif;
+  font-size: 40px;
+  margin: 0px 0px 30px 0px;
+}
+
+h3 {
+  color: rgb(75,213,238);
+    font-family: "FranklinGothicBookRegular", sans-serif;
+  font-size: 30px;
+  }
+
+.paragraph1 {
+ font-size: 20px;
+ margin: 0px 0px 40px 0px;
+ }
+
+ul {
+  text-align: left;
+}
+
+.img1 {
+  margin: 30px 0px 60px 0px;
+  }
+
+
+#TheLink {
+  text-decoration: underline;
+  }
+
+
+#wraper {
+  boarder: 1px solid #001;
+  margin: 10px 10px 10px 10px;
+  padding: 10px 10px 10px 10px;
+  max-width: 960;
+}
+
+#first {
+  float: left;
+  max-width: 50%;
+ display: block;
+  align: center;
+}
+
+#second {
+  float: right;
+  max-width: 50%;
+  display: block;
+  align: center;
+  
+  
+}
+
+#footer {
+  clear: both;
+}
